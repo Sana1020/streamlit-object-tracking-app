@@ -1,5 +1,5 @@
 # 🎯 Object Tracking Application
-![alt text](image-1.png)
+![alt text](C:\projects\object_tracking\image-1.png)
 
 
 A real-time object tracking application built with Streamlit and OpenCV that detects and tracks moving objects in video files using background subtraction techniques.
